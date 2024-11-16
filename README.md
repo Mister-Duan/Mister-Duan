@@ -44,10 +44,10 @@ and more -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mister-Hope&theme=github_dark"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mister-Duan&theme=github_dark"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mister-Hope&theme=github"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mister-Duan&theme=github"
   />
 </picture>
 <picture>
