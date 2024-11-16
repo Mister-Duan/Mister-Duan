@@ -53,27 +53,27 @@ and more -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mister-Hope&theme=github_dark"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mister-Duan&theme=github_dark"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mister-Hope&theme=github"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mister-Duan&theme=github"
   />
 </picture>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mister-Hope&theme=github_dark"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mister-Duan&theme=github_dark"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mister-Hope&theme=github"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mister-Duan&theme=github"
   />
 </picture>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mister-Hope&theme=github_dark"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mister-Duan&theme=github_dark"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mister-Hope&theme=github"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mister-Duan&theme=github"
   />
 </picture>
